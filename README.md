@@ -9,3 +9,5 @@ The data at hand has three features about the spending on advertising, and the t
 - Radio - Independent variable quantifying budget for radio ads
 - News - Independent variable quantifying budget for news ads
 - Sales - Dependent variable
+
+![image](https://user-images.githubusercontent.com/102191236/182970446-97d0e234-3a99-4d17-907f-46cfd4dcee68.png)
